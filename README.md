@@ -19,8 +19,10 @@ Key Features:
         The results are displayed with two decimal places for clarity.
 
     Error Handling:
-        If the user inputs an invalid operation (not between 1 and 4), the program provides an appropriate error message.
+        If the user inputs an invalid operation (not between 1 and 4), the program provides an appropriate error message.i
+        Asks for changing the second input when the choice is division if the second input is 0 as no number can be divided with 0
 
+        
 Conclusion
 
 This basic calculator program serves as an introductory example for learning C programming, demonstrating fundamental concepts such as user input, conditional statements, and arithmetic operations. It can be easily expanded or modified to include more features, such as additional operations or a user interface.
